@@ -1,0 +1,1 @@
+# src-org-avengers-template-golang-Dependency.groovy
